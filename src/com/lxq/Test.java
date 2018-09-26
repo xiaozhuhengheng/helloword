@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("dgv");
 		System.out.println("sd");
 		System.out.println("dscds");
-		System.out.println(aaa);
+		System.out.println("sdf");
 	}
 
 }
